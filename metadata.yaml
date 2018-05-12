@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '42503'
     url: http://www.gutenberg.org/2009/agents/42503
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43966#Witchcraft-and-Superstitious-Record-in-the-South-Western-District-of-Scotland
 gutenberg_issued: '2013-10-17'
 gutenberg_type: Text
 identifiers:
