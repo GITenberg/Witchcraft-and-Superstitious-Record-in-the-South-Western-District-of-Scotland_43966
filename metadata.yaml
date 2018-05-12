@@ -1,0 +1,38 @@
+_repo: Witchcraft-and-Superstitious-Record-in-the-South-Western-District-of-Scotland_43966
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Copland, John
+    gutenberg_agent_id: '42504'
+    url: http://www.gutenberg.org/2009/agents/42504
+covers:
+- cover_type: archival
+  image_path: 43966-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wood, J. Maxwell (John Maxwell)
+    alias: Wood, John Maxwell
+    deathdate: 1925
+    gutenberg_agent_id: '42503'
+    url: http://www.gutenberg.org/2009/agents/42503
+description: ''
+gutenberg_issued: '2013-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Witchcraft -- Scotland'
+- !lcsh 'Folklore -- Scotland'
+- !lcc 'BF'
+tableOfContents: 'Traditional witchcraft described -- Witch narrative -- Witchcraft
+  trials and persecution -- Fairies and brownies -- Wraiths and warnings -- Death
+  customs and funeral ceremony -- Ghost lore and haunted houses -- Appendix: (a) Surprising
+  story of the Devil of Glenluce. (b) A true relation of an apparitions which infested
+  the house of Andrew Mackie, Ringcroft of Stocking, Parish of Rerwick, etc. (c) The
+  Laird o'' Coul''s ghost.'
+title: Witchcraft and Superstitious Record in the South-Western District of Scotland
+url: http://www.gutenberg.org/ebooks/43966
